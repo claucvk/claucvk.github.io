@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Claudia Vargas
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: claudiacv22@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://claucvk.github.io"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username:
+github_username:  claucvk
+facebook_username: ClauKV
 
 # Build settings
 markdown: kramdown
