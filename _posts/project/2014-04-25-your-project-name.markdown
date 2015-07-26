@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "TCCM Winter School LTTC"
-date:   2015-02
+date:   2015-02-01
 author: Muammar El Khatib and Claudia Vargas
 categories:
 - project
