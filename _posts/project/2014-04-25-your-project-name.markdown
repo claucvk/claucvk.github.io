@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+title:  "TCCM Winter School LTTC"
+date:   2015-02
+author: Muammar El Khatib and Claudia Vargas
 categories:
 - project
 img: portfolio_01.jpg
@@ -10,11 +10,11 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-client: Wonder Corp.
-website: http://blacktie.co
+client: Université Paul Sabatier
+website: http://www.irsamc.ups-tlse.fr/lttc/
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+####TCCM Winter School LTTC
+The objectif of this project was develop a website for The Tutorials in Theoretical Chemistry organized by the Université Paul Sabatier in Luchon - France, and held from the 1st to 6th February 2015.
 
 ####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+We proposed a website based on Jekyll. Like the goal of this website was to keep informed the participants about the tutorial, the key information was organised and identified so that it was understandable and easy reached. The topic desing was inspired by the location where took place the tutorial.
