@@ -30,12 +30,8 @@ social:
     url: https://www.linkedin.com/profile/view?id=317425438&trk=nav_responsive_tab_profile
   - title: facebook
     url: https://www.facebook.com/ClauKV
-  - title: twitter
-    url: 
-  - title: instagram
-    url: 
-  - title: tumblr
-    url: 
+  - title: github
+    url: https://github.com/claucvk
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
