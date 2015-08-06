@@ -46,7 +46,6 @@ email: claudiacv22@gmail.com
 members:
   - name: Claudia Vargas
     position: Expert in HCI and UX
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team01.jpg
     social:
       - title: envelope #use for email address
