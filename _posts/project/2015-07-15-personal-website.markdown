@@ -11,11 +11,12 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-client: Wonder Corp.
-website: http://blacktie.co
+client: Annaël Brunet.
+website: http://muammar.me/annael/
 ---
 ####Personal Website
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+The objective was create a personal website for a client who works in the science field.
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+####My Proposal
+I proposed a website based on Jekyll. I created an interface inspired in a classic design and the world of science with a personal touch that characterized my client.

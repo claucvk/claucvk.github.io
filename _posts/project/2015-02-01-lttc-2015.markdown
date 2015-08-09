@@ -16,5 +16,5 @@ website: http://www.irsamc.ups-tlse.fr/lttc/
 ####TCCM Winter School LTTC
 The objectif of this project was develop a website for The Tutorials in Theoretical Chemistry organized by the Université Paul Sabatier in Luchon - France, and held from the 1st to 6th February 2015.
 
-####Our Proposal
-We proposed a website based on Jekyll. Like the goal of this website was to keep informed the participants about the tutorial, the key information was organised and identified so that it was understandable and easy reached. The topic desing was inspired by the location where took place the tutorial.
+#### Our Proposal
+We proposed a website based on Jekyll. Like the goal of this website was to keep informed the participants about the tutorial, the key information was organised and identified so that it was understandable and easy reached. The topic desing was inspired by the location where took place the tutorial. In this project I participed as a web developer.
