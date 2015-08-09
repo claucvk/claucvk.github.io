@@ -239,6 +239,7 @@ a:focus {
 
 /* Services Wrap */
 #service {
+	background-color: #fff;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
@@ -251,6 +252,7 @@ a:focus {
 
 /* Portfolio Wrap */
 #portfoliowrap {
+	background-color:#fff;
 	padding-top: 60px;
 	margin-bottom: 60px;
 	display: block;
@@ -300,7 +302,7 @@ a:focus {
 /* Testimonials Wrap */
 #twrapback {
     background-color: {{ site.colors.primary }};
-    background-color:rgba({{ site.colors.primary_rgb }},.8);
+    background-color: #5dd0b9;
     position: absolute;
     top: 0;
     left: 0;
