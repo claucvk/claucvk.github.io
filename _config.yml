@@ -54,7 +54,7 @@ members:
         url: https://www.linkedin.com/profile/view?id=317425438&trk=nav_responsive_tab_profile
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "In this website you are going to find a portafolio of my work, a blog intended to help people to start up in UX Design and HCI, and a space that encourages the exchange of ideas, tips and experiences to improve the UX and HCI practice"
+about: "In this website you are going to find a portafolio of my work, a blog intended to help people to start up in UX Design and HCI, and a space that encourages the exchange of ideas, tips and experiences to improve the UX and HCI practice."
 # Testimonial content. Shown on Home and About page. 
 testimonial:
     message: "Nobody was born successful, and every day is a learning experience. The way you want to make this journey called life depends on you. Love what you are doing and find your place in this world. Always respect others but never let them make you down, your conscience will thank you later. And remember the present soon become an unchangeable past and the future depend on present."
