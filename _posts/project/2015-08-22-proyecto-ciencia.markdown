@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Proyecto Ciencias"
+title:  "Proyecto Ciencia"
 date:   2015-08-23 16:54:46
 author: Muammar el Khatib and Claudia Vargas
 categories:
@@ -14,8 +14,8 @@ carousel:
 client: Proyecto Ciencia
 website: http://proyectociencia.org/
 ---
-####Proyecto Ciencias
-This project was about to refresh the image of the website according to the new goals of this organisation.
+####Proyecto Ciencia
+This project is about refreshing the image of the website according to the new goals of this organisation.
 
 ####Our Proposal
-For this project: 1) We got informe about the organisation's values, objectives and activity; 2) We identified the public target; 3) We made user research; 4) We presented some prototypes of the website, 5) We run some test of usability, 6) Finally we made the interface of this website based on all the information gathered in the previous steps.
+For this project: 1) We got informed about the organisation's values, objectives and activities; 2) We identified the public target; 3) We made user research; 4) We presented some prototypes of the website, 5) We run some tests of usability, 6) Finally we made the interface based on all the information gathered in the previous steps.
