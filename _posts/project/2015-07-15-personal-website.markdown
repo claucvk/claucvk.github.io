@@ -15,7 +15,7 @@ client: Annaël Brunet.
 website: http://muammar.me/annael/
 ---
 ####Personal Website
-The objective was create a personal website for a client who works in the science field.
+The objective was to create a personal website for a client who works in the science field.
 
 
 ####My Proposal
