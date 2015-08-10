@@ -18,4 +18,4 @@ website: http://proyectociencia.org/
 This project is about refreshing the image of the website according to the new goals of this organisation.
 
 ####Our Proposal
-For this project: 1) We got informed about the organisation's values, objectives and activities; 2) We identified the public target; 3) We made user research; 4) We presented some prototypes of the website, 5) We run some tests of usability, 6) Finally we made the interface based on all the information gathered in the previous steps.
+For this project: 1) We will inform about the organisation's values, objectives and activities; 2) We will identify the public target; 3) We will make user research; 4) We will present some prototypes of the website, 5) We will run some tests of usability, 6) Finally we will create the interface based on all the information gathered in the previous steps.
