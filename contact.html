@@ -12,25 +12,26 @@ permalink: /contact/
             <h4>Just Get In Touch!</h4>
             <div class="hline"></div>
                 <p>{{ site.about }}</p>
-                <form role="form" action= "{{ site.email }}" method="post" enctype= "text/plain">
-                  <div class="form-group">
-                    <label for="InputName1">Your Name</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1">
-                  </div>
-                  <div class="form-group">
-                    <label for="InputEmail1">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1">
-                  </div>
-                  <div class="form-group">
-                    <label for="InputSubject1">Subject</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1">
-                  </div>
-                  <div class="form-group">
-                    <label for="message1">Message</label>
-                    <textarea class="form-control" id="message1" rows="3"></textarea>
-                  </div>
-                  <button type="submit" class="btn btn-theme">Submit</button>
-                </form>
+				<form action="https://getsimpleform.com/messages?form_api_token=85079b43f4bf65c81d4e953bff75f8f2" method="post" enctype="multipart/form-data">
+				  <input type='hidden' name='redirect_to' value='http://ccvk.me' />
+				  <label for='name'>Name</label>
+				  <br />
+				  <input type='text' id='name' name='name' placeholder='Your Name' />
+				  <br />
+				  <label for='email'>Email</label>
+				  <br />
+				  <input type='text' id='email' name='email' placeholder='Your Email' />
+				  <br />
+				  <label for='email'>Message</label>
+				  <br />
+				  <textarea id='message' name='message' placeholder='Message' rows='8' cols='50'></textarea>
+				  <br />
+				  <label for='file'>Attachments</label>
+				  <br />
+				  <input type='file' name='avatar' />
+				  <br />
+				  <input type='submit' value='Submit' />
+				</form>
         </div><! --/col-lg-8 -->
 
         <div class="col-lg-4">
