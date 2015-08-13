@@ -3,7 +3,7 @@
 # Site settings
 title: ccvk
 description: "Claudia Vargas El Khatib User Experience UX Design Human Computer Interaction HCI Psychology"
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
+analytics: UA-66331601-1
 baseurl: "" #important: start with /
 url: "http://claucvk.github.io"
 
