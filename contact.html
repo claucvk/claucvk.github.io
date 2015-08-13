@@ -12,22 +12,22 @@ permalink: /contact/
             <h4>Just Get In Touch!</h4>
             <div class="hline"></div>
                 <p>{{ site.about }}</p>
-                <form role="form" action="contact.php" method="post">
+                <form role="form" action= "{{ site.email }}" method="post" enctype= "text/plain">
                   <div class="form-group">
-					<label> Name: </label>
-					        <input name="name" type="text" size="25" />
+                    <label for="InputName1">Your Name</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1">
                   </div>
                   <div class="form-group">
-					<label>Email: </label>
-					        <input name="email" type="text" size="255" />
+                    <label for="InputEmail1">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1">
                   </div>
                   <div class="form-group">
-					<label> Subject: </label>
-					        <input name="subject" type="text" size="100" />
+                    <label for="InputSubject1">Subject</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1">
                   </div>
                   <div class="form-group">
-					<label> Message: </label>
-					        <input name="message" type="text" size="300" />
+                    <label for="message1">Message</label>
+                    <textarea class="form-control" id="message1" rows="3"></textarea>
                   </div>
                   <button type="submit" class="btn btn-theme">Submit</button>
                 </form>
