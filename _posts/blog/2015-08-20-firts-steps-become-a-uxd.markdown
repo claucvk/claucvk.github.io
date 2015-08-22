@@ -33,7 +33,7 @@ It is not a recipe or the only way to make it. Feel free to do what works and fi
 
 I hope this article would be of help you for you. Checkout this document written by Nielsen Norman Group <a href="http://www.nngroup.com/reports/user-experience-careers/">"User Experience Careers"</a>. It is a report that analyzes how UX professionals educated and trained themselves for their careers.
  
-If you have some questions or comments feel free to [contact me](http://ccvk.me/contact). There are also some links that contains good information about UX and you also can ask questions that you might have:
+If you have some questions, comments or suggestions feel free to [contact me](http://ccvk.me/contact) or comment below. There are also some links that contains good information about UX and you also can ask questions that you might have:
  
 * [http://www.usability.gov/](http://www.usability.gov/)
 * [http://www.uxmatters.com/](http://www.uxmatters.com/)
