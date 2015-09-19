@@ -12,7 +12,7 @@ carousel:
 - single02.jpg
 - single03.jpg
 client: Annaël Brunet.
-website: http://muammar.me/annael/
+website: http://abrunet.com/
 ---
 ####Personal Website
 The objective was to create a personal website for a client who works in the science field.
