@@ -11,7 +11,6 @@ thumb: thumb01.jpg
 ---
 <a href="#" class="image featured"><img src="http://127.0.0.1:4000/images/blog/post01.jpg" alt="" /></a>
 <b> If you are reading this is because you are interested in UX Design. </b> I'm not a super star in this field, but I think that my personal experience could give you some clues to become a UX designer. My background is in Psychology, one of the disciplines that is part of UX, but this article is intended for anyone (no matter his background) who wants to jump in. What I propose in here is how to achieve it being self-taught. <!--more-->
-	
 <b>The principal tools that you are going to need are:</b> a computer, internet access, some free time and high doses of curiosity and motivation.
 
 ####Some advices to start up: 
