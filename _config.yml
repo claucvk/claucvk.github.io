@@ -1,62 +1,14 @@
-### GENERAL SETTINGS ###
-
 # Site settings
-title: ccvk
-description: "Claudia Vargas El Khatib User Experience UX Design Human Computer Interaction HCI Psychology"
-analytics: UA-66331601-1
-baseurl: "" #important: start with /
-url: "http://claucvk.github.io"
+title: Twenty Blog
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://locahost:4000" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:title
-excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
-
-colors:  #in hex code if not noted else
-  primary: "f9fac1" #"#F70031" 
-  primary_rgb: "24,188,156" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
-  secondary: "#eb65a0" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
-  footer_heading: "#000000"
-  footer_content: "#d8dee4"
-  
-  
-### CONTACT SETTINGS ###
-
-# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
-social:
-  - title: linkedin
-    url: https://www.linkedin.com/profile/view?id=317425438&trk=nav_responsive_tab_profile
-  - title: facebook
-    url: https://www.facebook.com/ClauKV
-  - title: github
-    url: https://github.com/claucvk
-    
-# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines: 
-    - Toulouse,
-    - France.
-email: claudiacv22@gmail.com
-
-### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
-# Members information. Shown on About page.
-members:
-  - name: Claudia Vargas
-    position: Freelance UX Designer
-    img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:claudiacv22@gmail.com
-      - title: linkedin
-        url: https://www.linkedin.com/profile/view?id=317425438&trk=nav_responsive_tab_profile
-    
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "In this website you are going to find a portafolio of my work, a blog intended to help people to start up in UX Design and HCI, and a space that encourages the exchange of ideas, tips and experiences to improve the UX and HCI practice."
-# Testimonial content. Shown on Home and About page. 
-testimonial:
-    message: "Nobody was born successful, and every day is a learning experience. The way you want to make this journey called life depends on you. Love what you are doing and find your place in this world. Always respect others but never let them make you down, your conscience will thank you later. And remember the present soon become an unchangeable past and the future depend on present."
-    author: CLAUDIA VARGAS
-    position: HCI and UX Expert
