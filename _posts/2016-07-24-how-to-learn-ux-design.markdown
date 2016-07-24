@@ -9,7 +9,7 @@ categories:
 img: post01.jpg
 thumb: thumb01.jpg
 ---
-<a href="#" class="image featured"><img src="{{ site.url }}/images/blog/post01.jpg" alt="" /></a>
+<a href="#" class="image featured"><img src="{{ site.url }}/images/blog/post02.jpeg" alt="" /></a>
 <b> One the question that I ask myself when I decided to be a UX Designer was: How to learn it in a fast and effective way?. <!--more-->
 
 *The first thing that I faced was to understand what was really about UX Design? So, I started to look for videos on internet, read blogs and asked in specialized forum about books that were important to read. But sometimes I felt that it didn’t work because UX is a complex field that has different disciplines and I felt the books that I read didn’t explain clearly what was UX Design about. There were so many elements and aspects, but not a central idea that could conduct me to the understanding.
