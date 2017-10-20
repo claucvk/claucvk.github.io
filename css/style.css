@@ -9,6 +9,10 @@
 
 /* Basic */
 
+.projects {
+	text-align: justify;
+}
+
 	body, #skel-layers-wrapper {
 		background: #f3f6fa;
 	}
