@@ -12,6 +12,10 @@
 		line-height: 1.5em;
 	}
 
+	#img-about {
+		max-width: 150px;
+		max-height: 161px;
+}
 /* Section/Article */
 
 	header br {
