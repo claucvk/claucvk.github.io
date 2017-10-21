@@ -5,6 +5,10 @@
 */
 
 /* Basic */
+	#img-about {
+		max-width: 150px;
+		max-height: 161px;
+}
 
 	body {
 		min-width: 320px;
